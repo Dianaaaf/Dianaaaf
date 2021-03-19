@@ -1,16 +1,13 @@
-### Hi there 👋
+# **Olá! 👋**
 
-<!--
-**Dianaaaf/Dianaaaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Meu nome é Diana Alves.
+#### Aqui está meu currículo:
+<https://drive.google.com/file/d/1d0e_TIeKcohLuCtyM12skPowrtgqn_o9/view?usp=sharing>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### _Sobre mim_ 
+Atualmente estou com 16 anos, e sou apaixonada com programação e desenvolvimento! Tenho um interesse maior pela área de Front e trabalho para me desenvolver cada vez mais nessa área.
+
+### _Entre em contato comigo!_
+* E-mail: 2004disial@gmail.com
+* Linkedin: <https://www.linkedin.com/in/diana-alves-6a99271b5/>
