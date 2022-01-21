@@ -3,7 +3,7 @@
 
 ## Meu nome é Diana Alves.
 #### Aqui está meu currículo:
-<https://drive.google.com/file/d/1Cgqfev-wer-TmPCdn8E4WD3H_pB34ejx/view?usp=sharing>
+<https://drive.google.com/file/d/1rk9KZGWHlITE6W1Mpp9C0UXEhuJ6_asr/view?usp=sharing>
 
 ### _Sobre mim_ 
 Atualmente estou com 17 anos, e sou apaixonada com programação e desenvolvimento! Estudando a área de Mobile e cada dia me aprofundando e adquirindo os conhecimentos necessários!
