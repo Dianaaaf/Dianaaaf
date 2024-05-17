@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Header" src="https://github.com/Dianaaaf/Dianaaaf/blob/main/img/github.jpg?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/Dianaaaf/Dianaaaf/blob/main/img/capaLinkedin.jpg?raw=true"/>
 </div>
 <br>
 
@@ -40,7 +40,7 @@
 <br>
 
 
-<img height="20" alt="GIF" src="https://github.com/Dianaaaf/Dianaaaf/blob/main/img/grafic.png?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/Dianaaaf/Dianaaaf/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 <div>
   <img align="right" alt="GitHub Details" width="420px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dianaaaf&theme=github_dark"/>
   <img alt="GitHub Top Langs" width="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dianaaaf&theme=github_dark"/>
