@@ -3,12 +3,14 @@
 </div>
 <br>
 
+-----
 
 <div>
   <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Dianaaaf"/>
 </div>
 <br>
 
+-----
 
 <div align="center">
 <table>
@@ -30,6 +32,7 @@
 </div>
 <br>
 
+-----
 
 <div align="justify">
   <i><b>
@@ -39,6 +42,7 @@
 </div>
 <br>
 
+-----
 
 <img height="20" alt="GIF" src="https://github.com/Dianaaaf/Dianaaaf/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 <div>
@@ -47,6 +51,7 @@
 </div>
 <br>
 
+-----
 
 <div>
 <table align="right">
@@ -54,4 +59,28 @@
   <a href="https://www.linkedin.com/in/diana-alves-6a99271b5/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:2004disial@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Dianaaaf" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+-----
+
+<div>
+<table>
+<tr>
+ <td align="center"></td>
+</tr> 
+<tr>
+<td>
+<a href="https://github.com/Dianaaaf" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/Dianaaaf/Dianaaaf/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
+
+-----
+
+<div align="center">
+<img alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=C8A2C8&section=footer"/>
 </div>
